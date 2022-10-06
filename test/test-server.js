@@ -133,7 +133,6 @@ describe('GET /', function() {
           return done();
         });
       });
-// demo
 
 
       });
